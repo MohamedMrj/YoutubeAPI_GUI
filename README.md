@@ -35,7 +35,10 @@
 
 ## 🧐 About <a name = "about"></a>
 
-The purpose of the project is to help users getting information such as Youtube Channel ID and/or Youtube Video Information such as comments count, views count and even likes count. 
+With help of tkinter library and Youtube API, I made a Graphical User Interface to pull data from Youtube. This data can be video related such as comments count, views count, and even like count. 
+With this program you can also get Youtube Channel ID for any youtube channel just by simple pasting the link in the relevant field. 
+You can also pull data related to a youtube channel of your choice and this data can be that last 50 videos a channel published and their publishing date. 
+I enjoyed this project a lot and I have plansfor further improvements and features.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
