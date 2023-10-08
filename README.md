@@ -84,7 +84,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## 🎈 Usage <a name="usage"></a>
 
-Make sure to paste your API KEY in API>creds.py
+Make sure to paste your API KEY in API>api.py
 You can use this application by getting a youtube video channel link or ID directly to put it in the relevant fields and then click on buttons
 
 ![API GUI MAIN](image.png)
