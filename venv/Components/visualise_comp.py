@@ -1,0 +1,1 @@
+from Components.video_component import get_views_count
