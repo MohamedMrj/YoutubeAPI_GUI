@@ -5,7 +5,7 @@ from pytube import YouTube, Channel
 import re
 
 
-API_KEY = "AIzaSyBtKgj9K3RSASxjhaZxqGlyXWObaIMOsZA"
+API_KEY = "PLACE YOUR API KEY HERE"
 
 def clean_channel_link(link):
     global link_from_user
