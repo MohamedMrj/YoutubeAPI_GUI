@@ -1,6 +1,7 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="[https://i.imgur.com/6wj0hh6.jpg](https://appmaster.io/api/_files/PqV7MuNwv89GrZvBd4LNNK/download/)" alt="Project logo"></a>
+ <img width=200px height=200px src="![image](https://github.com/MohamedMrj/YoutubeAPI_GUI/assets/113178714/280de505-43de-4e43-82f9-58954f3eb1ff)
+" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Youtube API GUI</h3>
